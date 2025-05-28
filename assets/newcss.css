@@ -399,17 +399,17 @@ img {
 
 /*===================== About ==================*/
 .about__img {
-  height: 500px;
-  width: 170px;
-  border-radius: 5%;
+  /*height: 450px;
+  */width: 170px;
+  border-radius: 25px;
   justify-self: center;
   align-self: center;
   /*border: 1px solid #fff;
   */-moz-border-radius: 50;
-  -ms-border-radius: 5%;
-  -o-border-radius: 5%;
-  -webkit-border-radius: 5%;
-  -moz-border-radius: 5%;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
 }
 
 .about__description {
@@ -897,7 +897,7 @@ img {
 /*====================== Scroll Bar =====================*/
 
 ::-webkit-scrollbar {
-  width: 0.6rem;
+  width: 0.8rem;
   background-color: var(--scroll-bar-color);
   border-radius: 0.5rem;
 }
@@ -908,7 +908,8 @@ img {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: var(--text-color-light);
+  /* background-color: var(--text-color-light); */
+  background-color: #424141;
 }
 
 /*======================== Media Queries ======================*/
