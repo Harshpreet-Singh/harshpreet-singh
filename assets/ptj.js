@@ -18,7 +18,7 @@ if (navClose) {
 // cv alert below
 if (cv) {
   cv.addEventListener("click", () => {
-    alert("CV is not available yet, It will be available soon");
+    alert("Downloading CV...");
   });
 }
 
