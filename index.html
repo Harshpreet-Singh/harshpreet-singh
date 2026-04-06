@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -20,9 +20,10 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
     />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   </head>
 
-  <body oncontextmenu="return false">
+  <body oncontextmenu="return false;">
     <header class="header" id="header">
       <nav class="nav container">
         <a href="#" class="nav__logo">&lt;/&gt; Harsh</a>
@@ -122,7 +123,7 @@
                     class="home__blob-img"
                     x="-79"
                     y="-46"
-                    xlink:href="assets/img/Pro.jpg"
+                    xlink:href="assets/img/Pro.jpeg"
                   />
                 </g>
               </svg>
@@ -131,11 +132,12 @@
               <h1 class="home__title">Hi, I'm Harshpreet Singh</h1>
               <h4 class="home__subtitle">Learning. Building. Innovating</h4>
               <p class="home__description">
-                🧑‍💻 Student by degree, Dev by choice <br />
-                🔥 Code, Create, Conquer <br />
-                🛠 MERN | PHP | AI Experiments <br />
-                ⚡ Believe in “Build. Break. Learn. Repeat."
-                <br /><br />
+                <i class="fas fa-user-graduate"></i>&nbsp; Student by degree, Dev by
+                choice <br />
+                <i class="fas fa-fire"></i>&nbsp; Code, Create, Conquer <br />
+                <i class="fas fa-tools"></i>&nbsp; MERN | PHP | AI Experiments <br />
+                <i class="fas fa-bolt"></i>&nbsp; Believe in “Build. Break. Learn.
+                Repeat.” <br /><br />
                 <strong>CGC University </strong>, Mohali.
               </p>
               <a href="#contact" class="button button--flex">
@@ -177,17 +179,17 @@
 
             <div class="about__info">
               <div>
-                <span class="about__info-title">08.30+</span>
+                <span class="about__info-title">08.50+</span>
                 <span class="about__info-name">Aggregate <br />CGPA</span>
               </div>
 
               <div>
-                <span class="about__info-title">20+</span>
+                <span class="about__info-title">10+</span>
                 <span class="about__info-name">Projects</span>
               </div>
 
               <div>
-                <span class="about__info-title">02+</span>
+                <span class="about__info-title">01+</span>
                 <span class="about__info-name">Year <br />experience</span>
               </div>
             </div>
@@ -377,13 +379,25 @@
                           <i
                             class="uil uil-check-circle services__modal-icon"
                           ></i>
-                          <p>Working as Assistant Technical Head at <a href="https://bug2build.in/" target="_blank">Bug2Build</a></p>
+                          <p>
+                            Working as Assistant Technical Head at
+                            <a href="https://bug2build.in/" target="_blank"
+                              >Bug2Build</a
+                            >
+                          </p>
                         </li>
                         <li class="services__modal-service">
                           <i
                             class="uil uil-check-circle services__modal-icon"
                           ></i>
-                          <p>Know more about me at <a href="https://www.linkedin.com/in/harshpreet-singh-989419225/" target="_blank">LinkedIn</a></p>
+                          <p>
+                            Know more about me at
+                            <a
+                              href="https://www.linkedin.com/in/harshpreet-singh-989419225/"
+                              target="_blank"
+                              >LinkedIn</a
+                            >
+                          </p>
                         </li>
                         <li class="services__modal-service">
                           <i
@@ -479,46 +493,23 @@
             </div>
             <!-- ------------------------portfollio 2-------------------- -->
             <div class="portfolio__content grid swiper-slide">
-              <img src="assets/img/portfolio4.png" class="portfolio__img" />
+              <img src="assets/img/portfolio.png" class="portfolio__img" />
 
               <div class="portfolio__data">
-                <h3 class="portfolio__title">Todo & Keep Notes in React</h3>
+                <h3 class="portfolio__title">Exam Seating Plan Generator</h3>
                 <p class="portfolio__description">
-                  This is Todo and Keep notes application. This is purely made
-                  in ReactJS, this saves all data as localstorage in users
-                  device. Responsive design ensures a seamless experience on any
-                  device.
+                  The Exam Seating Plan Generator automates examination seating
+                  by parsing student data from PDFs and generating optimized
+                  layouts using an ABAB pattern algorithm. It features
+                  drag-and-drop seat management for intuitive student
+                  repositioning across rooms, dynamic allocation with automatic
+                  branch detection and cross-room student flow, and interactive
+                  room configuration with customizable rows and columns. The
+                  system provides real-time vacancy tracking, student removal
+                  with auto-shifting, and one-click exports to Excel, PDF, CSV,
+                  and JSON formats.
                 </p>
-                <a
-                  target="_blank"
-                  href="https://github.com/Harshpreet-Singh/todo-go-app"
-                  class="button button--flex button--small portfolio__button"
-                >
-                  GitHub Repository
-                  <i class="uil uil-external-link-alt button__icon"></i>
-                </a>
-                <a
-                  target="_blank"
-                  href="https://todo-go-app.netlify.app/"
-                  class="button button--flex button--small portfolio__button"
-                >
-                  See Live
-                  <i class="uil uil-external-link-alt button__icon"></i>
-                </a>
-              </div>
-            </div>
-            <!-- ------------------------portfollio 3-------------------- -->
-            <div class="portfolio__content grid swiper-slide">
-              <img src="assets/img/portfolio.jpg" class="portfolio__img" />
-
-              <div class="portfolio__data">
-                <h3 class="portfolio__title">TO-DO LIST</h3>
-                <p class="portfolio__description">
-                  TO-DO list is a basic HTML, CSS AND JS project that aims to
-                  provide user-friedly experience and helps user to manage a
-                  TO-DO list, you can add, edit or delete the task.
-                </p>
-                <a
+                <!-- <a
                   target="_blank"
                   href="https://github.com/Harshpreet-Singh/To-Do-list-in-JS.github.io"
                   class="button button--flex button--small portfolio__button"
@@ -531,6 +522,51 @@
                   href="https://harshpreet-singh.github.io/To-Do-list-in-JS.github.io/"
                   class="button button--flex button--small portfolio__button"
                 >
+                  See Live
+                  <i class="uil uil-external-link-alt button__icon"></i>
+                </a> -->
+              </div>
+            </div>
+
+            <!-- ------------------------portfollio 3-------------------- -->
+
+            <div class="portfolio__content grid swiper-slide">
+              <img src="assets/img/portfolio4.png" class="portfolio__img" />
+
+              <div class="portfolio__data">
+                <h3 class="portfolio__title">Bug2Build Main Website</h3>
+                <p class="portfolio__description">
+                  Bug2Build is a dynamic community platform built with HTML,
+                  CSS, JavaScript, PHP, and MySQL featuring dynamic page loading
+                  for seamless navigation across events, teams, and contributors
+                  sections. It includes a real-time event management system, an
+                  interactive team showcase, and a dynamic contributors wall
+                  that updates automatically as members join. The platform
+                  leverages asynchronous content loading for an app-like user
+                  experience, with PHP handling server-side logic and MySQL
+                  managing data storage. Additional features include user
+                  authentication, event registration tracking, and fully
+                  responsive design, showcasing my expertise in full-stack web
+                  development with real-time dynamic content management.
+                </p>
+                <!-- <a
+                  target="_blank"
+                  href="https://github.com/Harshpreet-Singh/todo-go-app"
+                  class="button button--flex button--small portfolio__button"
+                >
+                  GitHub Repository
+                  <i class="uil uil-external-link-alt button__icon"></i>
+                </a> -->
+                <a
+                  target="_blank"
+                  href="https://bug2build.in/"
+                  class="button button--flex button--small portfolio__button"
+                >
+                  <!-- <a
+                  target="_blank"
+                  href="https://todo-go-app.netlify.app/"
+                  class="button button--flex button--small portfolio__button"
+                > -->
                   See Live
                   <i class="uil uil-external-link-alt button__icon"></i>
                 </a>
