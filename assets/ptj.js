@@ -18,7 +18,7 @@ if (navClose) {
 // cv alert below
 if (cv) {
   cv.addEventListener("click", () => {
-    alert("Downloading CV...");
+    alert("Viewing Resume...");
   });
 }
 
