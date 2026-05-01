@@ -2,8 +2,7 @@
 
 Assistant Tech Head at Bug2Build  
 Working on Python fundamentals, MERN stack, and real-world projects  
-Open to web development and open-source collaboration  
-Currently learning full-stack MERN, Python, and strengthening C/C++  
+Open to web development and open-source collaboration   
 Ask me about web development, and Python basics  
 
 
