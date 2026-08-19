@@ -63,13 +63,14 @@ I enjoy solving real-world problems, building practical applications, and contri
 
 ---
 
-## Currently Learning
+## Currently Exploring
 
 - Data Structures & Algorithms
 - Data Analytics
 - Machine Learning
-- Power BI
-- Advanced MERN Stack
+- Deep Learning
+- FASTAPI
+- MERN Stack
 - Open Source Contribution
 
 ---
@@ -84,9 +85,18 @@ I enjoy solving real-world problems, building practical applications, and contri
 
 ---
 
-## Random Developer Quote
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+## Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **RoadVision AI** *(In Progress)* | Computer vision system for real-time road defect detection, severity estimation, and automated report generation. | `YOLOv8` `PyTorch` `OpenCV` `Streamlit` | [Code](https://github.com/Harshpreet-Singh/RoadVision-AI) |
+| **Punjab Rent Price Prediction** | ML regression pipeline predicting rental prices across Punjab using scraped, cleaned, and feature-engineered datasets. | `Python` `Scikit-Learn` `Pandas` `NumPy` | [Code](https://github.com/Harshpreet-Singh/Punjab-Rent-Price-Prediction) |
+| **DA Public (OLX Rental Analysis)** | Exploratory data analysis and web scraping project analyzing real estate rental listings across Mohali, Kharar, and SAS Nagar. | `Python` `Pandas` `Web Scraping` `EDA` | [Code](https://github.com/Harshpreet-Singh/DA) |
+| **Bug2Build Main Website** | Primary organization platform engineered for performance, modern UI, and user management. | `MERN Stack` `Tailwind CSS` `Redux` | [Code](https://github.com/Harshpreet-Singh) • [Live Demo] |
+
+---
 
 ---
 
