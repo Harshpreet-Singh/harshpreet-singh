@@ -83,7 +83,6 @@ I enjoy solving real-world problems, building practical applications, and contri
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpreet-Singh&layout=compact&theme=gruvbox&hide_border=true)
 
----
 
 ---
 
@@ -93,12 +92,11 @@ I enjoy solving real-world problems, building practical applications, and contri
 | :--- | :--- | :--- | :--- |
 | **RoadVision AI** *(In Progress)* | Computer vision system for real-time road defect detection, severity estimation, and automated report generation. | `YOLOv8` `PyTorch` `OpenCV` `Streamlit` | [Code](https://github.com/Harshpreet-Singh/RoadVision-AI) |
 | **Punjab Rent Price Prediction** | ML regression pipeline predicting rental prices across Punjab using scraped, cleaned, and feature-engineered datasets. | `Python` `Scikit-Learn` `Pandas` `NumPy` | [Code](https://github.com/Harshpreet-Singh/Punjab-Rent-Price-Prediction) |
-| **DA Public (OLX Rental Analysis)** | Exploratory data analysis and web scraping project analyzing real estate rental listings across Mohali, Kharar, and SAS Nagar. | `Python` `Pandas` `Web Scraping` `EDA` | [Code](https://github.com/Harshpreet-Singh/DA) |
-| **Bug2Build Main Website** | Primary organization platform engineered for performance, modern UI, and user management. | `MERN Stack` `Tailwind CSS` `Redux` | [Code](https://github.com/Harshpreet-Singh) • [Live Demo] |
+| **DA Public (OLX Rental Analysis)** | Exploratory data analysis and web scraping project analyzing real estate rental listings across cities of Punjab. | `Python` `Pandas` `Web Scraping` `EDA` `PowerBI` | [Code](https://github.com/Harshpreet-Singh/DA) |
+| **Bug2Build Main Website** | Primary organization platform engineered for performance, modern UI, and user management. | `MERN Stack` `Tailwind CSS` `Redux` | •  |
 
 ---
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshpreet-Singh&style=for-the-badge&color=blue" alt="Profile Views"/>
