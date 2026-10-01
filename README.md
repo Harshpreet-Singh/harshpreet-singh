@@ -77,7 +77,7 @@ I enjoy solving real-world problems, building practical applications, and contri
 
 ## GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Harshpreet-Singh&show_icons=true&theme=gruvbox&hide_border=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Harshpreet-Singh&show_icons=true&theme=gruvbox&hide_border=true) -->
 
 ![](https://streak-stats.demolab.com?user=Harshpreet-Singh&theme=gruvbox&hide_border=true)
 
